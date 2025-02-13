@@ -26,7 +26,6 @@ O programa simula a criação de uma **conta bancária** a partir dos dados forn
 
 ### **1️⃣ Classe `ContaTerminal.java`**
 ```java
-package com.seuprojeto.contabanco;
 
 import java.util.Scanner;
 
