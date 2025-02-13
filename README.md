@@ -16,7 +16,6 @@ O programa simula a criação de uma **conta bancária** a partir dos dados forn
 📦 ContaBanco
  ┣ 📂 src/main/java/com/seuprojeto/contabanco
  ┃ ┣ 📜 ContaTerminal.java
- ┣ 📜 README.md
  ┣ 📜 .gitignore
  ┗ 📜 pom.xml
 ```
